@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+TestBuild_BackUpThisFolder_ButDontShipItWithYourGame/
+VAR_MIRI_Assignment_3_BurstDebugInformation_DoNotShip/
+poke_BackUpThisFolder_ButDontShipItWithYourGame/
+project_BackUpThisFolder_ButDontShipItWithYourGame/
